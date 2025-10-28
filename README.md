@@ -61,17 +61,17 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/nileshkaute" target="_blank">
+  <a href="https://www.linkedin.com/in/nilesh-kaute" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://nileshkaute.vercel.app" target="_blank">
+  <a href="https://my-portfolio-phi-murex-78.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:nileshkaute@gmail.com">
+  <a href="mailto:nileshkaute1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ **“Code with logic, design with passion.”** 🚀
+⭐ **“From logic to life — I build what you imagine”** 🚀
