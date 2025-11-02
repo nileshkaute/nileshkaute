@@ -41,16 +41,6 @@
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-FABC05?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
----
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nileshkaute&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ### 🚀 Featured Projects  
