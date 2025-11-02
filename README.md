@@ -34,6 +34,14 @@
 
 ---
 
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nileshkaute&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ### 🚀 Featured Projects  
 
 #### 🌐 [My Portfolio](https://github.com/nileshkaute/my-portfolio)
@@ -41,12 +49,12 @@
 > ⚡ Showcases my skills, projects, and creativity.
 
 #### 📚 [BookNest](https://github.com/nileshkaute/booknest)
-> An interactive book library web app built with **React + Node.js + MySQL**.  
-> 🪶 Features authentication, book management, and a responsive UI.
+> A simple yet elegant **book library website** built using **HTML, CSS, and JavaScript**.  
+> 🪶 Features book listings, clean UI, and interactive elements with smooth **GSAP animations**.
 
 #### 💎 [EclatEssencePerfume](https://github.com/nileshkaute/EclatEssencePerfume)
-> A luxury perfume brand website with **smooth animations** and **modern UI** using **GSAP** & **TailwindCSS**.  
-> ✨ Focused on design, motion, and elegance.
+> A luxury perfume brand website created using **HTML, CSS, and JavaScript** with **GSAP animations**.  
+> ✨ Focused on visual storytelling, smooth transitions, and premium design aesthetics.
 
 ---
 
