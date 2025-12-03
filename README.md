@@ -59,12 +59,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nileshkaute&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nileshkaute&layout=compact&theme=radical" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nileshkaute&theme=radical&margin-w=15&margin-h=15&column=6" />
 </p>
+
 
 ---
 
