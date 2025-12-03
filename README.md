@@ -61,8 +61,10 @@
 
 ## 📈 GitHub Stats
 
-![Nilesh Kaute GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshkaute&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkaute&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nileshkaute&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkaute&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
