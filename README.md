@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nilesh%20Kaute&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Full-Stack%20Dev%20%7C%20Data%20Analytics%20%7C%20Cinematic%20Storyteller&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi%2C+I'm+Nilesh+%F0%9F%91%8B;I+build+what+you+imagine+%F0%9F%9A%80;React+%7C+SQL+%7C+GSAP+%7C+Data+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Hi%2C+I'm+Nilesh+%F0%9F%91%8B;I+build+what+you+imagine+%F0%9F%9A%80;React+%7C+SQL+%7C+GSAP+%7C+Data+Analytics" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,17 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nileshkaute&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Currently%20Building-Revelation%20YT%20Channel-A78BFA?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Learning-SQL%20%26%20Data%20Analytics-F2C811?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge"/>
 
 </td>
 </tr>
