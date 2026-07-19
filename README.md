@@ -27,14 +27,17 @@
 
 <br/>
 
+<img src="https://github.com/nileshkaute.png" width="150" style="border-radius:50%; border:3px solid #A78BFA;"/>
+
+<h3>Nilesh Kaute</h3>
+
+<p><b>Frontend & Full-Stack Developer</b><br/>
+Aspiring Data Analyst | Creative Storyteller</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nileshkaute&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Currently%20Building-Revelation%20YT%20Channel-A78BFA?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Learning-SQL%20%26%20Data%20Analytics-F2C811?style=for-the-badge"/>
-<br/><br/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge"/>
 
 </td>
